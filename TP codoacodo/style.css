@@ -1,0 +1,68 @@
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+/* NAVBAR */
+a.nav-link {
+    color: white;
+}
+.navbar-img {
+    height: 30%;
+    width: 30%;
+}
+span.navbar-text {
+    color: white;
+    font-size: x-large;
+}
+
+/* BODY */
+
+#conferencia {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 13rem 4rem 8rem 40rem;
+}
+.conf-bkg {
+    background-image: url(imagenes/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#conf-text {
+    text-align: right;
+}
+#oradores {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#lugar {
+    background-color:rgb(50, 50, 51);
+    text-align: center;
+    padding-right: 2rem;
+}
+#lugar-text {
+    padding-top: 2rem;
+}
+.white-text {
+    color: white;
+}
+.card {
+    margin: 0rem 1rem 1rem 1rem;
+}
+#unite {
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+}
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    padding: 2rem 1rem 3rem 2rem;
+}
+footer a {
+    padding-right: 3rem;
+}
